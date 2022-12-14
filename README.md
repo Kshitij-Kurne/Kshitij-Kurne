@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kshitij-Kurne, currently doing my Masters in Computer Science Engineering
-- 👀 I’m interested in new technologies bring huge change to the world
+- 👋 Hi, I’m @Kshitij-Kurne, currently working in TuringMinds.ai
+- 👀 I’m interested in new technologies that bring huge change to the world
 - 🌱 I’m currently learning Machine Learning, Artificial Intelligence, UI/UX Design and Android Development
 - 💞️ I’m looking to collaborate on projects related to AI and ML with Android Applications
 - 📫 How to reach me:kckurne@ymail.com
